@@ -1,0 +1,1 @@
+"use strict";document.addEventListener("AjaxCatchEvent",function(t){console.log(window.globalFormData)},!1);
